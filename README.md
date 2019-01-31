@@ -1,2 +1,2 @@
 # ses
-Trial and Error of a Simple Email Service
+Java Program to send multiple Attachments in a Single Email 
